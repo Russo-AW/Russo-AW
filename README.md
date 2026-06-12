@@ -240,57 +240,6 @@ Scope of work:
 
 ---
 
-## Certifications
-
-### AWS
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Track-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-### Oracle
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-SQL%20Concepts-7C3AED?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-### NPTEL
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Software%20Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white" />
-  <img src="https://img.shields.io/badge/NPTEL-Machine%20Learning-6D28D9?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-### Cisco
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Foundations-312E81?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
-
----
-
-## Coding Profiles
-
-<p align="center">
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-  </a>
-  <a href="https://www.hackerrank.com/">
-    <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-  </a>
-  <a href="https://www.codechef.com/">
-    <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</p>
-
----
-
 ## GitHub Analytics
 
 <div align="center">
