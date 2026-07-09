@@ -240,7 +240,7 @@ Scope of work:
 
 ---
 
-## GitHub Analytics
+<!-- ## GitHub Analytics
 
 <div align="center">
 
@@ -256,9 +256,9 @@ Scope of work:
 
 </div>
 
----
+--- -->
 
-## GitHub Trophies
+<!-- ## GitHub Trophies
 
 <div align="center">
 
@@ -266,7 +266,7 @@ Scope of work:
 
 </div>
 
----
+--- -->
 
 ## Contribution Activity
 
